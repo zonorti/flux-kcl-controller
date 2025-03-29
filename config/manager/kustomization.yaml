@@ -5,4 +5,4 @@ resources:
 images:
 - name: kcl-controller
   newName: ghcr.io/kcl-lang/flux-kcl-controller
-  newTag: v0.1.0
+  newTag: v0.11.0
